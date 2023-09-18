@@ -1,0 +1,3 @@
+python-dotenv==1.0.0
+pyTelegramBotAPI==4.13.0
+CurrencyConverter==0.17.9
